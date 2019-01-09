@@ -1,1 +1,3 @@
 Hi friends
+
+My first (Not exactly) git repo.
